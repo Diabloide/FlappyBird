@@ -57,6 +57,7 @@ function draw() {
             xPos = 10;
             yPos = 150;
             change = 5;
+            score = 0;
         }
     }
     yPos = yPos - change
